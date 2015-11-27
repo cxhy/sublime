@@ -1,0 +1,1 @@
+{"version": "1.0.3", "dependencies": [], "platforms": ["*"], "sublime_text": ">=3000", "description": "This linter plugin for SublimeLinter provides an interface to iverilog.", "url": "https://github.com/jfcherng/SublimeLinter-contrib-iverilog"}

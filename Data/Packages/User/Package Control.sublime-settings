@@ -10,6 +10,9 @@
 		"FileHeader",
 		"My Snippets",
 		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-contrib-iverilog",
+		"SublimeLinter-contrib-xvhdl",
 		"Verilog"
 	]
 }
