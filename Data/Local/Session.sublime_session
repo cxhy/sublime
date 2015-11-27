@@ -1,0 +1,260 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3083,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"al",
+						"always_asyn	always"
+					],
+					[
+						"a",
+						"always	always"
+					],
+					[
+						"hea",
+						"head	head"
+					],
+					[
+						"p",
+						"per_din"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 490.0,
+				"last_filter": "packa",
+				"selected_items":
+				[
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"Alignment ",
+						"Preferences: Alignment File Settings – User"
+					],
+					[
+						"Verilog ",
+						"ConvertToUTF8: Reload with Encoding"
+					]
+				],
+				"width": 725.0
+			},
+			"console":
+			{
+				"height": 162.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/F/mydata/Sublime Text Build 3083 x64/Data/Packages/User/Base File.sublime-settings",
+				"/F/mydata/Sublime Text Build 3083 x64/Data/Packages/Alignment/Base File.sublime-settings",
+				"/F/mydata/Sublime Text Build 3083 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/F/mydata/Sublime Text Build 3083 x64/Data/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/Desktop/dma_decode_16b.v",
+				"/F/mydata/Sublime Text Build 3083 x64/Data/Packages/FileHeader/Default (Windows).sublime-keymap",
+				"/F/mydata/Sublime Text Build 3083 x64/Data/Packages/User/always.sublime-snippet",
+				"/F/mydata/Sublime Text Build 3083 x64/Data/Packages/FileHeader/FileHeader.sublime-settings",
+				"/F/mydata/Sublime Text Build 3083 x64/Data/Packages/User/FileHeader.sublime-settings",
+				"/E/work/mod_sim/omsp_gpio.v",
+				"/E/Program Files/Sublime Text Build 3083 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/E/Program Files/Sublime Text Build 3083 x64/Data/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/C/cygwin64/home/cxhy/pmem2ihex_shell",
+				"/E/work/mod_sim/tb_openMSP430.do",
+				"/E/work/mod_sim/dma_channel.vhd",
+				"/E/Program Files/Sublime Text Build 3083 x64/Data/Packages/Alignment/Base File.sublime-settings",
+				"/E/work/mod_sim/dma_master.v",
+				"/E/Program Files/Sublime Text Build 3083 x64/Data/Packages/User/Base File.sublime-settings",
+				"/C/Users/cxhy/Desktop/msp430sim",
+				"/E/download/xunlei/Sublime Text Build 3083 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/cxhy/Desktop/s.v",
+				"/E/download/xunlei/Sublime Text Build 3083 x64/Data/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/E/download/xunlei/Sublime Text Build 3083 x64/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/E/download/xunlei/Sublime Text Build 3083 x64/Data/Packages/Package Control/Package Control.sublime-settings",
+				"/E/work/mod_sim/omsp_clock_module.v",
+				"/C/Users/cxhy/Desktop/asd.v",
+				"/E/download/xunlei/Sublime Text Build 3083 x64/Data/Packages/User/Base File.sublime-settings",
+				"/E/download/xunlei/Sublime Text Build 3083 x64/Data/Packages/User/JSON.sublime-settings",
+				"/E/download/xunlei/Sublime Text Build 3083 x64/Data/Packages/Terminal/Base File.sublime-settings"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"reg_rd",
+					"bcsctl2"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,697,983,25,1801",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 188.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
